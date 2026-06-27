@@ -55,11 +55,6 @@ const gabi = {
 
 <div align="center">
 
-<a href="mailto:onagagabriela@gmail.com">
-<img src="https://img.shields.io/badge/Email-E6D5FF?style=for-the-badge&logo=gmail&logoColor=6B4EFF"/>
-</a>
-
-
 <a href="https://instagram.com/gabi.onaga">
 <img src="https://img.shields.io/badge/Instagram-E6D5FF?style=for-the-badge&logo=instagram&logoColor=6B4EFF"/>
 </a>
