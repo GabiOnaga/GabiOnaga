@@ -26,10 +26,6 @@
 
 ## 👩🏻‍💻 About me
 
-</div>
-
-
-```javascript
 const gabi = {
 
   name: "Gabriela Onaga",
@@ -38,12 +34,32 @@ const gabi = {
 
   course: "Desenvolvimento de Sistemas",
 
-  learning: [
+  languages: [
     "C++",
     "HTML"
   ],
 
-  goal:
-  "Aprender, criar projetos e evoluir na tecnologia 💜"
+  currentlyLearning:
+  "Aprendendo e desenvolvendo meus conhecimentos em tecnologia 💜"
 
 };
+
+---
+
+<div align="center">
+
+## 🌐 Contact
+
+</div>
+
+
+<div align="center">
+
+📩 Email  
+onagagabriela@gmail.com
+
+
+📷 Instagram  
+@gabi.onaga
+
+</div>
